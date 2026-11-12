@@ -1,0 +1,30 @@
+{
+  "name": "TrollStore 仓库",
+  "packages": [
+    {
+      "name": "TrollStore-Custom.ipa",
+      "url": "https://github.com/henryso95-art/ipa-share/releases/download/ipa-v1/TrollStore-Custom.ipa",
+      "size": 2486401
+    },
+    {
+      "name": "Dopamine.ipa",
+      "url": "https://github.com/henryso95-art/ipa-share/releases/download/ipa-v1/Dopamine.ipa",
+      "size": 55422988
+    },
+    {
+      "name": "AScript-4009-wq.ipa",
+      "url": "https://github.com/henryso95-art/ipa-share/releases/download/ipa-v1/AScript-4009-wq.ipa",
+      "size": 81352787
+    },
+    {
+      "name": "AScript-4007-wq.ipa",
+      "url": "https://github.com/henryso95-art/ipa-share/releases/download/ipa-v1/AScript-4007-wq.ipa",
+      "size": 73365967
+    },
+    {
+      "name": "WebDriverAgent.ipa",
+      "url": "https://github.com/henryso95-art/ipa-share/releases/download/ipa-v1/WebDriverAgent.ipa",
+      "size": 1279655
+    }
+  ]
+}
